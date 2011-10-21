@@ -1,11 +1,9 @@
-git ÆÄÀÏ¼öÁ¤ ÈÄ ¼­¹ö¿¡ Ä¿¹ÔÇÏ´Â ¼ø¼­.
+git íŒŒì¼ìˆ˜ì • í›„ ì„œë²„ì— ì»¤ë°‹í•˜ëŠ” ìˆœì„œ.
 
-1. ÆÄÀÏ ¼öÁ¤
-2. ¼öÁ¤ÇÑ ÆÄÀÏÀ» ³ª¿­ (·ÎÄÃ¿¡ ½ºÅÄµù)
+1. íŒŒì¼ ìˆ˜ì •
+2. ìˆ˜ì •í•œ íŒŒì¼ì„ ë‚˜ì—´ (ë¡œì»¬ì— ìŠ¤íƒ ë”©)
 	git add README
-3. ·ÎÄÃ¿¡ Ä¿¹Ô
-	git commit -m 'Ä¿¹Ô ¸Þ¼¼Áö'
-4. ¿ø°Ý¿¡ ½ºÅÄµù
-	git remote add origin git@github.com:jihye98/mycode.git
-5. ¿ø¦¿¡ Ä¿¹Ô
+3. ë¡œì»¬ì— ì»¤ë°‹
+	git commit -m 'ì»¤ë°‹ ë©”ì„¸ì§€'
+4. ì›ê²ì— ì»¤ë°‹
 	git push origin master
