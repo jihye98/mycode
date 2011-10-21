@@ -1,0 +1,11 @@
+git 파일수정 후 서버에 커밋하는 순서.
+
+1. 파일 수정
+2. 수정한 파일을 나열 (로컬에 스탠딩)
+	git add README
+3. 로컬에 커밋
+	git commit -m '커밋 메세지'
+4. 원격에 스탠딩
+	git remote add origin git@github.com:jihye98/mycode.git
+5. 원겍에 커밋
+	git push origin master
